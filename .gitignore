@@ -26,10 +26,11 @@ eda/data/*.csv
 *.h5
 *.joblib
 
-# Virtual environment folders (in case you use one later)
+# Virtual environment folders 
 venv/
 env/
 
 # IDE / Editor settings
 .vscode/
 .idea/
+
