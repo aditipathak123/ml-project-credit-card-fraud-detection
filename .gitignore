@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large datasets / CSV files
+data/*.csv
+eda/data/*.csv
+
+# Logs
+*.log
+
+# Database files
+*.db
+
+# Model files
+*.pkl
+*.h5
+*.joblib
+
+# Virtual environment folders (in case you use one later)
+venv/
+env/
+
+# IDE / Editor settings
+.vscode/
+.idea/
