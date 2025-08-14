@@ -21,18 +21,18 @@ It integrates data preprocessing, EDA, feature importance visualization, and ML 
 │── requirements.txt # Dependencies
 │── .gitignore # Ignored files and folders
 
-##ML Model
+## ML Model
 The dashboard uses a machine learning model trained on historical credit card transactions.
 Predicts fraud probability with accuracy and highlights key features influencing predictions.
 
-##Usage
+## Usage
 Upload your credit card transaction CSV (optional if dataset is preloaded).
 View fraud probability distribution and top 15 feature importance graphs.
 Analyze model predictions interactively.
 
-##Notes
+## Notes
 Large datasets are not included in the repository to keep it lightweight.
 Ensure dependencies in requirements.txt are installed before running.
 
-##Author
+## Author
 Aditi Pathak
